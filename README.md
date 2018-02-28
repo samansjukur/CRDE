@@ -1,5 +1,7 @@
-# CRDE
-CockroachDB Data Editor
+# CRDE - CockroachDB Data Editor
+
+This application is developed with LiveCode 8
+
 
 ![Screenshot](/images/demo.gif)
 
